@@ -37,3 +37,13 @@ To load up the JSON file for the script that will download each image and store 
 
 	with open('full_dump_20170131.txt') as jsondump:
 		releases = json.load(jsondump)
+
+### Very useful links
+* [Click Progressbar Library](http://click.pocoo.org/5/utils/)
+* [XPath Stuff Used for dev](http://stackoverflow.com/questions/17380869/get-list-items-inside-div-tag-using-xpath)
+* [datetime formatting](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior)
+* [datetime formatting example](http://stackoverflow.com/questions/2265357/parse-date-string-and-change-format)
+* [Converting Roman Numerals](http://stackoverflow.com/questions/19308177/converting-roman-numerals-to-integers-in-python)
+* [Basic tool for looking at JSON](http://jsonviewer.stack.hu/)
+* [More XPath Stuff](http://www.w3schools.com/xml/xpath_syntax.asp)
+* [What started it all lxml](http://docs.python-guide.org/en/latest/scenarios/scrape/#web-scraping)
